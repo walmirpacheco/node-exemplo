@@ -1,4 +1,3 @@
-# node-example-npm
-
-Code examples used in Building Node.js applications using Cloud Build
-https://cloud.google.com/build/docs/building/build-nodejs
+# basic-config-example
+Code example used in "Creating a basic build configuration file"
+https://cloud.google.com/build/docs/configuring-builds/create-basic-configuration
